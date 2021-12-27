@@ -3,7 +3,7 @@
 
 myRetail is a rapidly growing company with HQ in Richmond, VA and over 200 stores across the east coast. myRetail wants to make its internal data available to any number of client devices, from myRetail.com to native mobile apps. This is an end-to-end Proof-of-Concept for a products API, which will aggregate product data from Product Repository and Pricing Information from Pricing Repository and return it as a single JSON to the caller.
 
-this represents Pricing CRUD microservice
+this represents Pricing CRUD microservice - which provides the pricing for different products 
 
 Database: MongoDb - downaloadable here - https://www.mongodb.com/try/download/community 
 
